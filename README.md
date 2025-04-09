@@ -1,9 +1,12 @@
 # Weather-app
 
 🌤️ Weather App
+
 A simple, responsive weather web app that lets users search for any city and view the current weather, along with a Google Map of the location. The weather data is also stored in a MySQL database through a Node.js backend.
 
 📁 Project Structure
+
+
 weather-app/
 ├── weather.html         # Main frontend
 ├── weather.css          # Styles
