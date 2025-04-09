@@ -109,3 +109,12 @@ weather-app/
     Animate.css
 
     Icons by Font Awesome
+ 
+😶‍🌫️ Demo
+
+
+https://github.com/user-attachments/assets/36db6b36-dc34-4683-88b8-f404d0d10b06
+
+
+
+
